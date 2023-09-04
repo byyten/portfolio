@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'OpenSans';
+    src: url('./OpenSans.ttf');
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 1rem;
+    margin-right: 0.5rem;
+    padding-top: 0.2rem;
+  }
+  
+body {
+    padding: 0;
+    margin: 0;
+    font-family: OpenSans, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cards { display: flex; flex-wrap: wrap;}
+
+/* header */
+header, main { padding: 2rem; }
+
+header {
+    background-image: url('./img_header_100pct.png');
+    /* background-image: url('./_sand_denhaag_rotacrop.png'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: bottom; */
+    /* background-color: rgba(189, 183, 107, 0.616); */
+    /* max-height: 600px; */
+    /* color: whitesmoke; */
+}
+
+
+.header_color { color: whitesmoke; }
+img.portfolio_photo { width: 100%; }
+
+div.about { max-width: 600px; padding: 0 0 0 1rem; }
+
+p.me { font-size: 0.8rem;}
+
+.socmed { display: flex; float: inline-end; color: whitesmoke;}
+
+
+
+/* main */
+div.work, header, footer {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* card */
+div.card { 
+    max-width: 300px; 
+    margin: 1rem 2rem 2rem 0; 
+    box-shadow: 5px 5px 5px gray;
+}
+div.illustration {
+    max-height: 10rem;
+    min-height: 10rem; 
+}
+div.card_body { padding: 1rem}
+img.project {
+    max-width: 100%;
+    height: auto; 
+    /* object-fit: contain; */
+}
+span.link.page { font-size: 1.1rem; color: black; }
+
+/* div.svg >  */
+svg {
+    height: 16px; margin-left: 0.2rem; 
+}
+
+
+/* footer */
+footer.footer {
+    align-content: flex-start;
+    background-color: rgba(255, 217, 0, 0.521);
+    padding: 1rem;
+}
+img.contact { width: 200px; padding: 1.8rem 0rem;}
+.left { 
+    display:flex; flex-direction: column; padding-right: 2rem;
+}
+.comms { display: inline-flex; }
