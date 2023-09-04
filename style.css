@@ -26,15 +26,9 @@ header, main { padding: 2rem; }
 
 header {
     background-image: url('./img_header_100pct.png');
-    /* background-image: url('./_sand_denhaag_rotacrop.png'); */
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-position: bottom; */
-    /* background-color: rgba(189, 183, 107, 0.616); */
-    /* max-height: 600px; */
-    /* color: whitesmoke; */
 }
-
 
 .header_color { color: whitesmoke; }
 img.portfolio_photo { width: 100%; }
@@ -46,12 +40,12 @@ p.me { font-size: 0.8rem;}
 .socmed { display: flex; float: inline-end; color: whitesmoke;}
 
 
-
 /* main */
 div.work, header, footer {
     display: flex;
     flex-wrap: wrap;
 }
+
 /* card */
 div.card { 
     max-width: 300px; 

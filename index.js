@@ -9,48 +9,44 @@
         rock_paper_scissors: {
             name: "Rock / Paper / Scissors", 
             description:[ "Foundations Course",
-                "first real project to bring together css html and js, built on top of alot of foundational knowledge where you had to demonstrate an ability to solve problems.",
-                "Prior projects (x2 Recipes & Landing Page 'holy grail'), hail Mary stuff were done to exercise & reinforce CSS and HTML in static pages"
+                "The first real project to bring together CSS, HTML and JS, built on top of alot of foundational knowledge where you had to demonstrate an ability to solve problems.",
+                "Prior projects (x2 Recipes & Landing Page 'holy grail'), were done to exercise & reinforce CSS and HTML in static pages"
             ], 
             image: "screen_rock_paper_scissors_02.png", 
             url_code: "https://github.com/byyten/rock_paper_scissors", 
             url_site: "https://byyten.github.io/rock_paper_scissors"
         }, 
-    
         calculator: {
             name: "Calculator", 
             description:[ "Foundations Course",
-                "brought to a conclusion the foundations course and the project required and flexed all abilities and knowledge basic javascript, HTML and CSS"
+                "The project brought to a conclusion the Foundations Course and the project required and flexed all abilities and knowledge using basic javascript, HTML and CSS"
             ], 
             image: "screen_calculator_02.png", 
             url_code: "https://github.com/byyten/calculator", 
             url_site: "https://byyten.github.io/calculator"
         }, 
-    
         dashboard: {
             name: "Dashboard", 
             description:[ "Intermediate HTML and CSS Course",
-                "required use of CSS flex and grid layout compositing with external resources"
+                "The project followed and required use of CSS flex and grid layout compositing with external resources, zero javascript"
             ], 
             image: "screen_dashboard.png", 
             url_code: "https://github.com/byyten/dashboard", 
             url_site: "https://byyten.github.io/dashboard"
         }, 
-    
         tic_tac_toe: {
             name: "Tic / Tac / Toe", 
             description:[ "Javascript Course",
-                "required code organisation and using objects + constructors followed on from learning factory functions and module patterns"
+                "A project required code organisation (separation of concerns, et al) and using objects + constructors followed on from learning factory functions and module patterns"
             ], 
             image: "screen_tic_tac_toe_02.png", 
             url_code: "https://github.com/byyten/tic_tac_toe", 
             url_site: "https://byyten.github.io/tic_tac_toe"
         }, 
-    
         todo: {
             name: "Todo List", 
             description:[ "Javascript Course",
-                "oop principals"
+                "Following on from classes, modules, closure, factory functions etc, a project to reinforce Object Oriented Programming principals"
             ], 
             image: "screen_todo_02.png", 
             url_code: "https://github.com/byyten/todo", 
@@ -59,17 +55,16 @@
         knightstravails: {
             name: "Knights Travails", 
             description:[ "Javascript Course",
-                "the fifth of five mini javascript projects (weather app, recursion, linked list, binary search BSF, DSF) to explore comp sci algorithms, space/time complexity, recursion/iteration, asyncronous js and APIs, json and code testing (using Jest)"
+                "The fifth of five mini javascript projects (weather app, recursion, linked list, binary search BSF, DSF) to explore computer science, algorithms, space/time complexity, recursion/iteration, asyncronous js and APIs, json and code testing (using Jest)"
             ], 
             image: "screen_knights_travails.png", 
             url_code: "https://github.com/byyten/rock_paper_scissors", 
             url_site: "https://github.com/byyten/rock_paper_scissors"
-        }, 
-    
+        },     
         battleship: {
             name: "Battleship", 
             description:[ "Javascript Course",
-                "the fifth of five mini javascript projects (weather app, recursion, linked list, binary search BSF, DSF) to explore comp sci algorithms, space/time complexity, recursion/iteration, asyncronous js and APIs, json and code testing (using Jest)"
+                "A project building on all technical disciplines covered previously to develop a reasonably complex code exercise and interface"
             ], 
             image: "screen_battleship_02.png", 
             url_code: "https://github.com/byyten/battleship", 
