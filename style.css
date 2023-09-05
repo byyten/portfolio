@@ -37,8 +37,8 @@ div.about { max-width: 600px; padding: 0 0 0 1rem; }
 
 p.me { font-size: 0.8rem;}
 
-.socmed { display: flex; float: inline-end; color: whitesmoke;}
-
+.socmed  { display: flex; float: inline-end; color: whitesmoke;}
+.footer_socmed { float: right; }
 
 /* main */
 div.work, header, footer {
